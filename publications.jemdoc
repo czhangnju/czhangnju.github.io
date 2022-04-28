@@ -1,12 +1,28 @@
 # jemdoc: menu{MENU}{publications.html},nofooter
-= Chao Zhang --- Publication
+= Chao Zhang £¨ÕÂ ³¬£© --- Publication
 
 See my [https://scholar.google.com/citations?hl=zh-CN&user=YygnMcgAAAAJ Google Scholar] profile for more information.
 
 == Journal Papers
-. *C. Zhang*, H. Li, C. Chen, Y. Qian, and X. Zhou. Enhanced group sparse regularized nonconvex regression for face recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*), doi:10.1109/TPAMI.202.3033994. (In Press) \[[https://ieeexplore.ieee.org/document/9241452/ pdf]] \n
-. *C. Zhang*, H. Li, Y. Qian, C. Chen, and X. Zhou. Locality-constrained discriminative matrix regression for robust face identification. IEEE Transactions on Neural Networks and Learning Systems (*IEEE TNNLS*), doi:10.1109/TNNLS.2020.30411636. (In Press) \[[https://ieeexplore.ieee.org/document/9298483 pdf]] \n
-. *C. Zhang*, H. Li, Y. Qian, C. Chen, and Y. Gao. Pairwise relations oriented discriminative regression. IEEE Transations on Circuits and Systems for Video Technology (*IEEE TCSVT*), 2021, 31(7): 2646-2660. \[[https://ieeexplore.ieee.org/document/9235492 pdf]] \n
-. H. Li, *C. Zhang*, X. Jia, Y. Gao, and C. Chen. Adaptive label correlation based asymmetric discrete hashing for cross-modal retrieval. IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE*), doi:10.1109/TKDE.2021.3102119. (In Press) \[[https://ieeexplore.ieee.org/document/9507286 pdf]] \n
-. *C. Zhang*, H. Li, C. Chen, and X. Zhou. Nonnegative representation based discriminant projection for face recognition. International Journal of Machine Learning and Cybernetics, 2021, 12(3): 733-745. \[[http://link.springer.com/article/10.1007/s13042-020-01199-z pdf]] \n
+- [https://ieeexplore.ieee.org/document/9241452 Enhanced group sparse regularized nonconvex regression for face recognition]. \n
+*C. Zhang*, H. Li, C. Chen, Y. Qian, and X. Zhou.\n
+IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI*), 2022, 44(5): 2438-2452.
+
+- [https://ieeexplore.ieee.org/document/9298483 Locality-constrained discriminative matrix regression for robust face identification]. \n
+*C. Zhang*, H. Li, Y. Qian, C. Chen, and X. Zhou.\n
+IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*), 2022, 33(3): 1254-1268.
+
+- [https://ieeexplore.ieee.org/document/9235492 Pairwise relations oriented discriminative regression]. \n
+*C. Zhang*, H. Li, Y. Qian, C. Chen, and X. Zhou.\n
+IEEE Transations on Circuits and Systems for Video Technology (*TCSVT*), 2021, 31(7): 2646-2660. 
+
+- [https://ieeexplore.ieee.org/document/9507286 Adaptive label correlation based asymmetric discrete hashing for cross-modal retrieval]. \n
+H. Li, *C. Zhang*, X. Jia, Y. Gao, and C. Chen.\n
+IEEE Transactions on Knowledge and Data Engineering (*TKDE*). (In Press) 
+
+- [http://link.springer.com/article/10.1007/s13042-020-01199-z Nonnegative representation based discriminant projection for face recognition]. \n
+*C. Zhang*, H. Li, C. Chen, and X. Zhou.\n
+International Journal of Machine Learning and Cybernetics, 2021, 12(3): 733-745. \
+
+
 
